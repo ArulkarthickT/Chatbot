@@ -150,7 +150,7 @@ body{
 
 @media screen and (max-height: 760px) {
   .chat-area .chatbox {
-    height: 72vh;
+    height: 70vh;
   }
 }
 
